@@ -1,3 +1,4 @@
 # OnSpotHire
-Smart Hiring Platform built with Java and Tailwind CSS (in progress)
+A Smart Job Posting & Hiring Web App (Demo Version, Work-in-Progress)
+
 
